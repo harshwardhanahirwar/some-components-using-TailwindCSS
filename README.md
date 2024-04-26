@@ -1,4 +1,4 @@
-![image](https://github.com/harshwardhanahirwar/some-components-using-TailwindCSS/assets/145853599/ba8308aa-2d8d-4b31-a298-e8ae2a9aab43)# some components using TailwindCSS
+# some components using TailwindCSS
  i am make some components using TailwindCSS and also make responship
 <h1>1st Component</h1> <br>
 <h2>Laptop/Destop view</h2>
